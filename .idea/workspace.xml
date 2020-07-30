@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1800cd84-f649-4748-b3a8-adee03995b1f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../gitlab-valentin-maxime/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Http/Middleware/TrustHosts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/database/seeds/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brogrammer/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../brogrammer/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brogrammer/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../brogrammer/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brogrammer/resources/sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../brogrammer/resources/sass/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brogrammer/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../brogrammer/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brogrammer/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../brogrammer/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="blog" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/app.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="82" column="19" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dump</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/admin/pages/dashboard.php" />
+        <option value="$PROJECT_DIR$/admin/pages/settings.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blog-laravel-tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog-laravel-tutorial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog-laravel-tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog-laravel-tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1800cd84-f649-4748-b3a8-adee03995b1f" name="Default" comment="" />
+      <created>1498422772814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498422772814</updated>
+      <workItem from="1498422774058" duration="3067000" />
+      <workItem from="1499252419713" duration="90000" />
+      <workItem from="1596142474763" duration="879000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4036000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.51859957" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5388828" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/materialize.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding>
+            <marker date="1445879416501" expanded="true" signature="137:238" ph="..." />
+            <marker date="1445879416501" expanded="true" signature="188:232" ph="..." />
+            <marker date="1445879416501" expanded="true" signature="899:908" ph="..." />
+            <marker date="1445879416501" expanded="true" signature="899:1608" ph="..." />
+            <marker date="1445879416501" expanded="true" signature="899:1616" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/pages/write.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/pages/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="119" column="7" selection-start-line="119" selection-start-column="7" selection-end-line="119" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/functions/settings.func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/pages/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="78" column="51" selection-start-line="78" selection-start-column="51" selection-end-line="78" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/ampq/amqp.php" />
+    <entry file="file://$PROJECT_DIR$/pages/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-941">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="82" column="19" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
